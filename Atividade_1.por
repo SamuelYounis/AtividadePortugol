@@ -42,4 +42,3 @@ programa
 	}
 }
 
-por algum motivo trocou tipo de variavel nome, e eu não consigo alterar.
